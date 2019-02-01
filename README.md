@@ -14,7 +14,7 @@ This Is Web Based Crud
 #### Important Point
 
 ```bash
-Userid And Password Id Given In File Name SecurityConfig Put In Config Folder Of This Project
+Userid And Password Is Given In File Name SecurityConfig Put In Config Folder Of This Project
 ```
 
 #### Heroku Live Project Url
